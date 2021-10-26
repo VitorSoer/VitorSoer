@@ -1,8 +1,8 @@
 <!--Banner e stats-->
 <div align="center">
-  <img src="/img/ban.png" width="910em" alt="Meu Banner..."/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorsoer&show_icons=true&theme=locale&include_all_commits=true&count_private=true&border_radius=0"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsoer&layout=compact&langs_count=7&theme=locale&border_radius=0"/>
+  <img src="/img/ban.png" width="760em" alt="Meu Banner..."/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitorsoer&show_icons=true&theme=locale&include_all_commits=true&count_private=true&border_radius=0"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsoer&layout=compact&langs_count=7&theme=locale&border_radius=0"/>
 </div><hr>
  
   
