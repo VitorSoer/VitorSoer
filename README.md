@@ -10,6 +10,8 @@
 <!--Skills-->
 <div align="center">
   <h2> Minhas Skills:</h2>
+  
+  <!--Badges-->
   <div>
     <img align="center" title="React" alt="Vi-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" title="JavaScript" alt="Vi-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,6 +21,7 @@
     <img align="center" title="Figma" alt="Vi-Figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   </div><br>
   
+  <!--Gifs-->
   <img src="/img/fast-typing.gif" width="155em" title="Degustar Café..." height="100em" alt="Meu Banner..."/>
   <img src="/img/nao_compila.gif" width="155em" title="Arremessar monitor..." height="100em" alt="Meu Banner..."/>
 </div>
