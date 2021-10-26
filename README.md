@@ -5,8 +5,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsoer&layout=compact&langs_count=7&theme=locale&border_radius=0"/>
 </div>
 
-##
-
 <!--Skills-->
 <div align="center">
   <h2> Minhas Skills:</h2>
