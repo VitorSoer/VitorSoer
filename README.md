@@ -11,16 +11,16 @@
 <div align="center">
   <h2> Minhas Skills:</h2>
   <div>
-    <img align="center" alt="Vi-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Vi-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Vi-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Vi-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Vi-Boot" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="Vi-Figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+    <img align="center" title="React" alt="Vi-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" title="JavaScript" alt="Vi-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" title="HTML" alt="Vi-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" title="CSS" alt="Vi-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" title="Bootstrap" alt="Vi-Boot" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" title="Figma" alt="Vi-Figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   </div><br>
   
-  <img src="/img/fast-typing.gif" width="155em" height="100em" alt="Meu Banner..."/>
-  <img src="/img/nao_compila.gif" width="155em" height="100em" alt="Meu Banner..."/>
+  <img src="/img/fast-typing.gif" width="155em" title="Degustar Café..." height="100em" alt="Meu Banner..."/>
+  <img src="/img/nao_compila.gif" width="155em" title="Arremessar monitor..." height="100em" alt="Meu Banner..."/>
 </div>
 
 ##
