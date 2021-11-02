@@ -7,7 +7,7 @@
 
 <!--Skills-->
 <div align="center">
-  <h2> Minhas Skills:</h2>
+  <h2>🤹‍♀ Minhas Skills: 🤹‍♂️</h2>
   
   <!--Badges-->
   <div>
