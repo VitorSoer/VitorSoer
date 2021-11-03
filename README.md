@@ -1,10 +1,10 @@
 
 <!--Banner e stats-->
 <div align="center">
-  <h1>🙋‍♂️ Hello World!  </h1>
-  <img src="/img/ban.png" width="735em" alt="Meu Banner..."/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=vitorSoer&show_icons=true&theme=locale&include_all_commits=true&count_private=true&border_radius=0"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsoer&layout=compact&langs_count=7&theme=locale&border_radius=0"/>
+  <h1>💥 Hello World! 💥 | I'm... 👦 </h1>
+  <img src="/img/ban.png" width="710em" alt="Meu Banner..."/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=vitorSoer&show_icons=true&theme=locale&include_all_commits=true&count_private=true&border_radius=0"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsoer&layout=compact&langs_count=7&theme=locale&border_radius=0"/>
 </div>
 
 <!--Skills Badges-->
@@ -12,7 +12,7 @@
   <div>
     <table>
       <tr>
-        <td><h3>🤹‍ Habilidades 👨‍🎨<h3></td>
+        <td><h3>👨‍💻 Web Skills: 🤹‍♂️<h3></td>
         <td>
           <img align="center" title="JavaScript" alt="Vi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" title="HTML" alt="Vi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
           <img align="center" title="CSS" alt="Vi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -32,8 +32,8 @@
   </div>   
   
   <!--Gifs-->
-  <img src="/img/fast-typing.gif" width="365em" title="Degustar Café..." height="200em" alt="Meu Banner..."/>
-  <img src="/img/nao_compila.gif" width="365em" title="Arremessar monitor..." height="200em" alt="Meu Banner..."/>
+  <img src="/img/fast-typing.gif" width="355em" title="Degustar Café..." height="200em" alt="Meu Banner..."/>
+  <img src="/img/nao_compila.gif" width="355em" title="Arremessar monitor..." height="200em" alt="Meu Banner..."/>
 </div>
 
 #
@@ -43,5 +43,7 @@
   <a href="https://www.linkedin.com/in/vitorsoer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contato.soer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/et9Be2NJ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-  <div></a> <img src="/img/nyan.gif" width="120em" alt="Meu Banner..."/></div>
+  <div>
+    <img src="/img/nyan.gif" width="150em" heigth="20em" alt="Meu Banner..."/>
+  </div>
 </div>
