@@ -2,9 +2,9 @@
 <!--Banner e stats-->
 <div align="center">
   <h1>💥 Hello World! 💥 | I'm... 👦 </h1>
-  <img src="/img/ban.png" width="695em" alt="Meu Banner..."/>
-  <img height="137em" src="https://github-readme-stats.vercel.app/api?username=vitorSoer&show_icons=true&theme=locale&include_all_commits=true&count_private=true&border_radius=0"/>
-  <img height="137em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsoer&layout=compact&langs_count=7&theme=locale&border_radius=0"/>
+  <img src="/img/ban.png" width="696em" alt="Meu Banner..."/>
+  <img height="137.5em" src="https://github-readme-stats.vercel.app/api?username=vitorSoer&show_icons=true&theme=locale&include_all_commits=true&count_private=true&border_radius=0"/>
+  <img height="137.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsoer&layout=compact&langs_count=7&theme=locale&border_radius=0"/>
 </div>
 
 <!--Skills Badges-->
