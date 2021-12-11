@@ -22,7 +22,7 @@
             <h2>👨‍🎨 Web Design 🛠</h2>
             <img align="center" title="Figma" alt="Vi-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
             <img align="center" title="AdobeXd" alt="Vi-Xd" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg">
-            <img align="center" title="Gimp" alt="Vi-Gimp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original-wordmark.svg">            
+            <img align="center" title="Photoshop" alt="Vi-Gimp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">            
          </td>
          <td>
             <h2>👨‍🎨 Tools 🛠</h2>
