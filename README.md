@@ -1,35 +1,39 @@
 
 <!--Banner e stats-->
 <div align="center">
-  <img src="/img/ban.png" width="696em" alt="Meu Banner..."/>
+  <img src="/img/ban-4.jpg" width="696em" alt="Meu Banner..."/>
   <img height="137.5em" src="https://github-readme-stats.vercel.app/api?username=vitorSoer&show_icons=true&theme=locale&include_all_commits=true&count_private=true&border_radius=0"/>
   <img height="137.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsoer&layout=compact&langs_count=7&theme=locale&border_radius=0"/>
 </div>
 
 <!--Skills Badges-->
-<div align="center">
+<div align="center" >
   <div>
-    <table>
-      <tr>
-        <td><h3>👨‍💻 Web Skills: 🤹‍♂️<h3></td>
-        <td>
-          <img align="center" title="JavaScript" alt="Vi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" title="HTML" alt="Vi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-          <img align="center" title="CSS" alt="Vi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-          <img align="center" title="React" alt="Vi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-          <img align="center" title="Bootstrap" alt="Vi-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-          <img align="center" title="Sass" alt="Vi-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-        </td>
-        <td>
-          <img align="center" title="VsCode" alt="Vi-VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-          <img align="center" title="Figma" alt="Vi-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-          <img align="center" title="Trello" alt="Vi-Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
-          <img align="center" title="Git" alt="Git-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-          <img align="center" title="GitHub" alt="GitH-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-        </td>
-      </tr>
-    </table>  
+  <table>
+       <tr align="center" width="150em" height="145em">
+         <td>
+          <h2>👨‍💻 Programming 👨‍🚀</h2>
+            <img align="center" title="JavaScript" alt="Vi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" title="HTML" alt="Vi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+            <img align="center" title="CSS" alt="Vi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+            <img align="center" title="React" alt="Vi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+            <img align="center" title="Sass" alt="Vi-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+         </td>
+         <td>
+            <h2>👨‍🎨 Web Design 🛠</h2>
+            <img align="center" title="Figma" alt="Vi-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+            <img align="center" title="AdobeXd" alt="Vi-Xd" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg">
+            <img align="center" title="Gimp" alt="Vi-Gimp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original-wordmark.svg">            
+         </td>
+         <td>
+            <h2>👨‍🎨 Tools 🛠</h2>
+            <img align="center" title="VsCode" alt="Vi-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+            <img align="center" title="Trello" alt="Vi-Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
+            <img align="center" title="Git" alt="Git-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+            <img align="center" title="GitHub" alt="GitH-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+         </td>
+       </tr>
+    </table>
   </div>   
-  
   <!--Gifs-->
   <img src="/img/fast-typing.gif" width="347.5em" title="Begin of code..." height="200em" alt="Meu Banner..."/>
   <img src="/img/nao_compila.gif" width="347.5em" title="Ending..." height="200em" alt="Meu Banner..."/>
