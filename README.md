@@ -1,7 +1,7 @@
 
 <!--Banner e stats-->
 <div align="center">
-  <img src="/img/ban-4.jpg" width="696em" alt="Meu Banner..."/>
+  <img src="/img/ban-4.jpg" width="698em" alt="Meu Banner..."/>
   <img height="137.5em" src="https://github-readme-stats.vercel.app/api?username=vitorSoer&show_icons=true&theme=locale&include_all_commits=true&count_private=true&border_radius=0"/>
   <img height="137.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsoer&layout=compact&langs_count=7&theme=locale&border_radius=0"/>
 </div>
@@ -29,6 +29,7 @@
             <img align="center" title="VsCode" alt="Vi-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
             <img align="center" title="Trello" alt="Vi-Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
             <img align="center" title="Git" alt="Git-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+            <img align="center" title="GitHub" alt="GitH-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
             <img align="center" title="GitHub" alt="GitH-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
          </td>
        </tr>
