@@ -28,16 +28,16 @@
             <h2>👨‍🎨 Tools 🛠</h2>
             <img align="center" title="VsCode" alt="Vi-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
             <img align="center" title="Trello" alt="Vi-Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
+            <img align="center" title="Jira" alt="Jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
             <img align="center" title="Git" alt="Git-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-            <img align="center" title="GitHub" alt="GitH-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
             <img align="center" title="GitHub" alt="GitH-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
          </td>
        </tr>
     </table>
   </div>   
   <!--Gifs-->
-  <img src="/img/fast-typing.gif" width="347.5em" title="Begin of code..." height="200em" alt="Meu Banner..."/>
-  <img src="/img/nao_compila.gif" width="347.5em" title="Ending..." height="200em" alt="Meu Banner..."/>
+  <img src="/img/fast-typing.gif" width="347em" title="Begin of code..." height="200em" alt="Meu Banner..."/>
+  <img src="/img/nao_compila.gif" width="347em" title="Ending..." height="200em" alt="Meu Banner..."/>
 </div>
 
 #
