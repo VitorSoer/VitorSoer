@@ -9,7 +9,7 @@
 <!--Skills Badges-->
 <div align="center" >
   <div>
-     <img src="/img/skills.PNG" width="698em" alt="Meu Banner..."/>
+     <img src="/img/skills.PNG" width="701em" alt="Meu Banner..."/>
   </div>   
   <!--Gifs-->
   <img src="/img/fast-typing.gif" width="347em" title="Begin of code..." height="200em" alt="Meu Banner..."/>
