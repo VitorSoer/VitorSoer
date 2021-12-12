@@ -1,7 +1,7 @@
 
 <!--Banner e stats-->
 <div align="center">
-  <img src="/img/ban-4.jpg" width="698em" alt="Meu Banner..."/>
+  <img src="/img/ban-4.png" width="698em" alt="Meu Banner..."/>
   <img height="137.5em" src="https://github-readme-stats.vercel.app/api?username=vitorSoer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=0"/>
   <img height="137.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsoer&layout=compact&langs_count=7&theme=tokyonight&border_radius=0"/>
 </div>
