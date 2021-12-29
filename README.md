@@ -12,7 +12,7 @@
      <img src="/img/ban-1.png" width="698em" alt="Meu Banner..."/>
   </div>   
   <!--Gifs-->
-  <img src="/img/fast-typing.gif" width="347em" title="Starting the project ..." height="200em" alt="Meu Banner..."/>
+  <img src="/img/fast-typing.gif" width="347em" title="Starting the project..." height="200em" alt="Meu Banner..."/>
   <img src="/img/nao_compila.gif" width="347em" title="Ending..." height="200em" alt="Meu Banner..."/>
   <img src="/img/ban-3.gif" width="698em" alt="Meu Banner..."/>
 </div>
