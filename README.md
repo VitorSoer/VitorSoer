@@ -2,8 +2,8 @@
 <!--Banner e stats-->
 <div align="center">
   <img src="/img/ban-2.png" width="698em" alt="Meu Banner..."/>
-  <img height="138em" src="https://github-readme-stats.vercel.app/api?username=vitorSoer&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true&border_radius=0"/>
-  <img height="138em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsoer&layout=compact&langs_count=7&theme=shades-of-purple&border_radius=0"/>
+  <img height="137.75em" src="https://github-readme-stats.vercel.app/api?username=vitorSoer&show_icons=true&hide_border=true&bg_color=80,302579,7426A6&include_all_commits=true&count_private=true&title_color=FDDA44&text_color=fff&border_radius=0"/>
+  <img height="137.75em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsoer&layout=compact&hide_border=true&langs_count=7&bg_color=80,302579,7426A6&title_color=FDDA44&text_color=FFF&border_radius=0"/>
 </div>
 
 
