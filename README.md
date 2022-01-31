@@ -2,18 +2,18 @@
 <!--Banner e stats-->
 <div align="center">
   <img src="/img/ban-2.png" width="698em" alt="Meu Banner..."/>
-  <img height="137.75em" src="https://github-readme-stats.vercel.app/api?username=vitorSoer&show_icons=true&hide_border=true&bg_color=80,302579,7426A6&include_all_commits=true&count_private=true&title_color=FDDA44&text_color=fff&border_radius=0"/>
-  <img height="137.75em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsoer&layout=compact&hide_border=true&langs_count=7&bg_color=80,302579,7426A6&title_color=FDDA44&text_color=FFF&border_radius=0"/>
+  <img height="137.75em" src="https://github-readme-stats.vercel.app/api?username=vitorSoer&show_icons=true&hide_border=true&bg_color=90,302579,FF4DCA&include_all_commits=true&count_private=true&title_color=FDDA44&text_color=E8E8E8&border_radius=0"/>
+  <img height="137.75em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsoer&layout=compact&hide_border=true&langs_count=7&bg_color=90,302579,FF4DCA&title_color=FDDA44&text_color=E8E8E8&border_radius=0"/>
 </div>
 
 <!--Skills Badges-->
 <div align="center" >
   <div>
-     <img src="/img/ban-1.png" width="698em" alt="Meu Banner..."/>
+     <img src="/img/ban-skills.png" width="698em" alt="Meu Banner..."/>
   </div>   
   <!--Gifs-->
-  <img src="/img/fast-typing.gif" width="347em" title="Starting the project..." height="200em" alt="Meu Banner..."/>
-  <img src="/img/nao_compila.gif" width="347em" title="Ending..." height="200em" alt="Meu Banner..."/>
+  <img src="/img/fast-typing.gif" width="347em" title="Starting the project..." height="180em" alt="Meu Banner..."/>
+  <img src="/img/nao_compila.gif" width="347em" title="Ending..." height="180em" alt="Meu Banner..."/>
 </div>
 
 <!--Contato-->
