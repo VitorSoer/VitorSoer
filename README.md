@@ -2,8 +2,8 @@
 <!--Banner e stats-->
 <div align="center">
   <img src="/img/ban-2.png" width="698em" alt="Meu Banner..."/>
-  <img height="148.85em" src="https://github-readme-stats.vercel.app/api?username=vitorSoer&show_icons=true&hide_border=true&bg_color=100,302579,FF4DCA&include_all_commits=true&count_private=true&title_color=FDDA44&text_color=E8E8E8&border_radius=0"/>
-  <img height="148.85em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsoer&layout=compact&hide_border=true&langs_count=7&bg_color=100,302579,FF4DCA&title_color=FDDA44&text_color=E8E8E8&border_radius=0"/>
+  <img height="158.45em" src="https://github-readme-stats.vercel.app/api?username=vitorSoer&show_icons=true&hide_border=true&bg_color=100,302579,FF4DCA&include_all_commits=true&count_private=true&title_color=FDDA44&text_color=E8E8E8&border_radius=0"/>
+  <img height="158.45em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsoer&layout=compact&hide_border=true&langs_count=7&bg_color=100,302579,FF4DCA&title_color=FDDA44&text_color=E8E8E8&border_radius=0"/>
 </div>
 
 <!--Skills Badges-->
