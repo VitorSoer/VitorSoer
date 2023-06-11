@@ -1,14 +1,10 @@
-# Desenvolvedor Front-End
+# Bem-vindo(a) ao meu GitHub!
 
 Olá! Sou um Desenvolvedor Front-End com experiência de seis anos em atendimento ao público e formação em Análise e Desenvolvimento de Sistemas. Atualmente, trabalho na EVT, onde utilizo várias ferramentas e tecnologias do setor para criar soluções web.
 
-## Experiência
-
-Durante os últimos seis anos, adquiri experiência em atendimento ao público por meio de diversos canais, incluindo chat, e-mail, telefone e aplicativos. Essa experiência me proporcionou habilidades de comunicação eficaz e capacidade de entender as necessidades dos clientes, garantindo a satisfação do usuário final.
-
 ## Tecnologias
 
-Como Desenvolvedor Front-End na EVT, utilizo uma variedade de tecnologias para criar aplicativos web de alta qualidade. Algumas das ferramentas que utilizo incluem:
+Como Desenvolvedor Front-End, utilizo uma variedade de tecnologias para criar aplicativos web de alta qualidade. Algumas das ferramentas que utilizo incluem:
          
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,styledcomponents,react,mongo,git,azure)](https://skillicons.dev)
 
