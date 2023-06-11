@@ -1,6 +1,6 @@
 # Bem-vindo(a) ao meu GitHub!
 
-Olá! Sou um Desenvolvedor Front-End com experiência de seis anos em atendimento ao público e formação em Análise e Desenvolvimento de Sistemas. Atualmente, trabalho na EVT, onde utilizo várias ferramentas e tecnologias do setor para criar soluções web.
+Olá! Sou um Desenvolvedor Front-End com seis anos de experiência em atendimento ao público e formação em Análise e Desenvolvimento de Sistemas. Atualmente, trabalho na EVT, aplicando uma variedade de ferramentas e tecnologias para desenvolver soluções web inovadoras. 
 
 ## Tecnologias
 
