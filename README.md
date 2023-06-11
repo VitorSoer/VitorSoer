@@ -4,7 +4,7 @@ Olá! Sou um Desenvolvedor Front-End com seis anos de experiência em atendiment
 
 ## Tecnologias
 
-Como Desenvolvedor Front-End, utilizo uma variedade de tecnologias para criar aplicativos web de alta qualidade. Algumas das ferramentas que utilizo incluem:
+Como Desenvolvedor Front-End, utilizo uma variedade de tecnologias para criar aplicativos web de alta qualidade. Algumas das ferramentas com as quais trabalho incluem:
          
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,styledcomponents,react,mongo,git,azure)](https://skillicons.dev)
 
