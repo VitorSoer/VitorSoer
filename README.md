@@ -1,16 +1,16 @@
 # Bem-vindo(a) ao meu GitHub!
 
-Olá! Sou um Desenvolvedor Front-End com seis anos de experiência em atendimento ao público e formação em Análise e Desenvolvimento de Sistemas. Atualmente, na EVT, utilizo uma diversidade de recursos e tecnologias para criar soluções web inovadoras. Meu objetivo é proporcionar experiências digitais excepcionais, unindo minha expertise técnica com habilidades de comunicação eficaz.
+Olá! Sou um Desenvolvedor Front-End com seis anos de experiência em atendimento ao público e formação em Análise e Desenvolvimento de Sistemas. Atualmente, utilizo uma diversidade de recursos e tecnologias para criar soluções inovadoras. Meu propósito é oferecer experiências digitais notáveis, mesclando minha perícia técnica a habilidades de comunicação eficaz, abrangendo tanto o universo web quanto o mobile.
 
 ## Tecnologias
 
-Como Desenvolvedor Front-End, utilizo uma variedade de tecnologias para criar aplicativos web de alta qualidade. Algumas das ferramentas com as quais trabalho incluem:
+Dentro do conjunto de habilidades que possuo, existem várias ferramentas que desempenham um papel crucial no meu dia a dia, tais como:
          
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,styledcomponents,react,mongo,git,azure)](https://skillicons.dev)
 
 ## Projetos e Contribuições
 
-Durante o meu tempo na EVT, tive a oportunidade de trabalhar em vários projetos interessantes, nos quais apliquei as minhas habilidades e conhecimentos técnicos para criar interfaces atraentes e funcionais. Além disso, participei ativamente de metodologias ágeis, como Scrum e Kanban, para garantir a entrega eficiente e colaborativa de projetos.
+Durante o meu tempo como desenvolvedor, tive a oportunidade de trabalhar em vários projetos interessantes, nos quais apliquei as minhas habilidades e conhecimentos técnicos para criar interfaces atraentes e funcionais. Além disso, participei ativamente de metodologias ágeis, como Scrum e Kanban, para garantir a entrega eficiente e colaborativa de projetos.
 
 ## Contato
 
